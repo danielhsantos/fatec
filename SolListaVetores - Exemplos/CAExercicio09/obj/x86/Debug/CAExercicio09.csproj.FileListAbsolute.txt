@@ -1,0 +1,9 @@
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio09\bin\Debug\CAExercicio09.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio09\bin\Debug\CAExercicio09.pdb
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio09\obj\x86\Debug\CAExercicio09.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio09\obj\x86\Debug\CAExercicio09.pdb
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores - Exemplos\CAExercicio09\obj\x86\Debug\CAExercicio09.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores - Exemplos\CAExercicio09\obj\x86\Debug\CAExercicio09.pdb
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores - Exemplos\CAExercicio09\bin\Debug\CAExercicio09.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores - Exemplos\CAExercicio09\bin\Debug\CAExercicio09.pdb
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores - Exemplos\CAExercicio09\obj\x86\Debug\CAExercicio09.csprojResolveAssemblyReference.cache

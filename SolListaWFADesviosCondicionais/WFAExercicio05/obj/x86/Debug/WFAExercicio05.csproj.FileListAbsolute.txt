@@ -1,0 +1,8 @@
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaWFADesviosCondicionais\WFAExercicio05\bin\Debug\WFAExercicio05.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaWFADesviosCondicionais\WFAExercicio05\bin\Debug\WFAExercicio05.pdb
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaWFADesviosCondicionais\WFAExercicio05\obj\x86\Debug\WFAExercicio05.Form1.resources
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaWFADesviosCondicionais\WFAExercicio05\obj\x86\Debug\WFAExercicio05.Properties.Resources.resources
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaWFADesviosCondicionais\WFAExercicio05\obj\x86\Debug\WFAExercicio05.csproj.GenerateResource.Cache
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaWFADesviosCondicionais\WFAExercicio05\obj\x86\Debug\WFAExercicio05.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaWFADesviosCondicionais\WFAExercicio05\obj\x86\Debug\WFAExercicio05.pdb
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaWFADesviosCondicionais\WFAExercicio05\obj\x86\Debug\WFAExercicio05.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio02\bin\Debug\CAExercicio02.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio02\bin\Debug\CAExercicio02.pdb
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio02\obj\x86\Debug\CAExercicio02.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio02\obj\x86\Debug\CAExercicio02.pdb
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores - Exemplos\CAExercicio02\obj\x86\Debug\CAExercicio02.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores - Exemplos\CAExercicio02\obj\x86\Debug\CAExercicio02.pdb

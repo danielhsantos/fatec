@@ -1,0 +1,2 @@
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio06\obj\x86\Debug\CAExercicio06.exe
+D:\Trabalho\WorkspaceLP-C# 2010\SolListaVetores\CAExercicio06\obj\x86\Debug\CAExercicio06.pdb
